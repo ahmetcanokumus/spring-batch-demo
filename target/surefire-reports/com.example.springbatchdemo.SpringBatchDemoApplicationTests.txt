@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.springbatchdemo.SpringBatchDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.865 s -- in com.example.springbatchdemo.SpringBatchDemoApplicationTests

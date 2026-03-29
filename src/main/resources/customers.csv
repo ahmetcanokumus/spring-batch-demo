@@ -1,0 +1,9 @@
+firstName,lastName,email,age
+Ayse,Yilmaz,AYSE@EXAMPLE.COM,28
+mehmet,demir,Mehmet.Demir@mail.com,35
+Zeynep,Kaya,zeynep@TEST.org,16
+Ali,Veli,ali.veli@example.com,42
+invalid line without proper columns
+Can,ozturk,CAN.OZTURK@DOMAIN.IO,19
+Fatma,sahin,fatma_sahin@example.com,17
+Emre,Yildiz,emre@example.com,31
